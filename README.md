@@ -1,2 +1,2 @@
 # Computational-Workshop-for-MACNM
-Computational Workshop for MACNM Alumni
+This project is created to share teaching files in the computational workshop for MACNM Alumni.
