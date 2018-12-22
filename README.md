@@ -30,7 +30,7 @@ The course includes a 2-hour lecture and a 1-hour practice each topic. Web-based
 
 1.[Video course-Learn Python with Socratica](https://www.bilibili.com/video/av24525184)
 
-2.Interactive learning without installation ([DataCamp](https://www.datacamp.com/courses/intro-to-python-for-data-science); [w3schools](https://www.w3schools.com/python/)
+2.Interactive learning without installation ([DataCamp](https://www.datacamp.com/courses/intro-to-python-for-data-science); [w3schools](https://www.w3schools.com/python/))
 
 3.Book ([Python for Everyone](https://www.py4e.com/))
 
