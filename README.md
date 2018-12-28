@@ -3,7 +3,7 @@
 
 <p style="text-align: center;"><strong>Computational Workshop for MACNM Alumni</strong></p>
 <p><strong>Topics:</strong></p>
-<table border="1" cellspacing="0" cellpadding="1">
+<table border="0" cellspacing="0" cellpadding="1">
 <tbody>
 <tr>
 <td style="text-align: center;" width="89">Date</td>
@@ -84,7 +84,7 @@
 </li>
 </ul>
 <p><strong>Textbook and Readings</strong></p>
-<table border="1" cellspacing="0">
+<table border="0" cellspacing="0">
 <tbody>
 <tr>
 <td style="text-align: center;" width="86">Overall</td>
