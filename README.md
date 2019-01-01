@@ -7,6 +7,7 @@
 <tbody>
 <tr>
 <td style="text-align: center;" width="89">Date</td>
+<td style="text-align: center;" width="200">Venue</td>
 <td style="text-align: center;" width="200">Morning</td>
 <td style="text-align: center;" width="200">Afternoon</td>
 <td style="text-align: center;" width="100">Evening</td>
@@ -15,16 +16,19 @@
 <td width="89">Week 1</td>
 <td width="200"></td>
 <td width="200"></td>
+<td width="200"></td>
 <td width="100"></td>
 </tr>
 <tr>
 <td width="89">Jan 5 Saturday</td>
+<td style="text-align: center;" width="200">M5505, 5/F, CMC, CityU</td>
 <td width="200">1. Python Programming I</td>
 <td width="200">2. Python Programming II</td>
 <td width="100">Homework</td>
 </tr>
 <tr>
 <td width="89">Jan 6 Sunday</td>
+<td style="text-align: center;" width="200">M5505, 5/F, CMC, CityU</td>
 <td width="200">3. Web Scraping</td>
 <td width="200">4. Data Visualization</td>
 <td width="100">Homework</td>
@@ -33,16 +37,19 @@
 <td width="89">Week 2</td>
 <td width="200"></td>
 <td width="200"></td>
+<td width="200"></td>
 <td width="100"></td>
 </tr>
 <tr>
 <td width="89">Jan 12 Saturday</td>
+<td style="text-align: center;" width="200">M5505, 5/F, CMC, CityU</td>
 <td width="200">5. Text Mining</td>
 <td width="200">6. User Profiling</td>
 <td width="100">Homework</td>
 </tr>
 <tr>
 <td width="89">Jan 13 Sunday</td>
+<td style="text-align: center;" width="200">M5505, 5/F, CMC, CityU</td>
 <td width="200">7. Network Analysis</td>
 <td width="200">8. A/B Test</td>
 <td width="100">Homework</td>
