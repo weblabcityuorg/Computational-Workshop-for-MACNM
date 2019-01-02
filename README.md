@@ -22,15 +22,15 @@
 <tr>
 <td width="89">Jan 5 Saturday</td>
 <td style="text-align: center;" width="200">M5505, 5/F, CMC, CityU</td>
-<td width="200">1. Python Programming I</td>
-<td width="200">2. Python Programming II</td>
+<td width="200">1. Python Programming I (Lecturer: LAN Ji)</td>
+<td width="200">2. Python Programming II (Lecturer: CHEN Zhicong)</td>
 <td width="100">Homework</td>
 </tr>
 <tr>
 <td width="89">Jan 6 Sunday</td>
 <td style="text-align: center;" width="200">M5505, 5/F, CMC, CityU</td>
-<td width="200">3. Web Scraping</td>
-<td width="200">4. Data Visualization</td>
+<td width="200">3. Web Scraping (Lecturer: GUAN Lu)</td>
+<td width="200">4. Data Visualization (Lecturer: LAN Ji)</td>
 <td width="100">Homework</td>
 </tr>
 <tr>
@@ -43,15 +43,15 @@
 <tr>
 <td width="89">Jan 12 Saturday</td>
 <td style="text-align: center;" width="200">M5505, 5/F, CMC, CityU</td>
-<td width="200">5. Text Mining</td>
-<td width="200">6. User Profiling</td>
+<td width="200">5. Text Mining (Lecturer: GUAN Lu)</td>
+<td width="200">6. User Profiling (Lecturer: CHEN Zhicong)</td>
 <td width="100">Homework</td>
 </tr>
 <tr>
 <td width="89">Jan 13 Sunday</td>
 <td style="text-align: center;" width="200">M5505, 5/F, CMC, CityU</td>
-<td width="200">7. Network Analysis</td>
-<td width="200">8. A/B Test</td>
+<td width="200">7. Network Analysis (Lecturer: Jonathan Zhu)</td>
+<td width="200">8. A/B Test (Lecturer: Jonathan Zhu)</td>
 <td width="100">Homework</td>
 </tr>
 </tbody>
